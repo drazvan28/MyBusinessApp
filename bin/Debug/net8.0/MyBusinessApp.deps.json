@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MyBusinessApp/1.0.0": {
+        "runtime": {
+          "MyBusinessApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyBusinessApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

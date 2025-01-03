@@ -1,0 +1,14 @@
+C:\Users\ULBS\Desktop\mybusinessapp\MyBusinessApp\bin\Debug\net8.0\MyBusinessApp.exe
+C:\Users\ULBS\Desktop\mybusinessapp\MyBusinessApp\bin\Debug\net8.0\MyBusinessApp.deps.json
+C:\Users\ULBS\Desktop\mybusinessapp\MyBusinessApp\bin\Debug\net8.0\MyBusinessApp.runtimeconfig.json
+C:\Users\ULBS\Desktop\mybusinessapp\MyBusinessApp\bin\Debug\net8.0\MyBusinessApp.dll
+C:\Users\ULBS\Desktop\mybusinessapp\MyBusinessApp\bin\Debug\net8.0\MyBusinessApp.pdb
+C:\Users\ULBS\Desktop\mybusinessapp\MyBusinessApp\obj\Debug\net8.0\MyBusinessApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULBS\Desktop\mybusinessapp\MyBusinessApp\obj\Debug\net8.0\MyBusinessApp.AssemblyInfoInputs.cache
+C:\Users\ULBS\Desktop\mybusinessapp\MyBusinessApp\obj\Debug\net8.0\MyBusinessApp.AssemblyInfo.cs
+C:\Users\ULBS\Desktop\mybusinessapp\MyBusinessApp\obj\Debug\net8.0\MyBusinessApp.csproj.CoreCompileInputs.cache
+C:\Users\ULBS\Desktop\mybusinessapp\MyBusinessApp\obj\Debug\net8.0\MyBusinessApp.dll
+C:\Users\ULBS\Desktop\mybusinessapp\MyBusinessApp\obj\Debug\net8.0\refint\MyBusinessApp.dll
+C:\Users\ULBS\Desktop\mybusinessapp\MyBusinessApp\obj\Debug\net8.0\MyBusinessApp.pdb
+C:\Users\ULBS\Desktop\mybusinessapp\MyBusinessApp\obj\Debug\net8.0\MyBusinessApp.genruntimeconfig.cache
+C:\Users\ULBS\Desktop\mybusinessapp\MyBusinessApp\obj\Debug\net8.0\ref\MyBusinessApp.dll
